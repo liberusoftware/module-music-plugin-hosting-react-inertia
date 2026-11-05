@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-plugin-hosting-react-inertia",
+  "capabilityKey": "liberusoftware/music-plugin-hosting",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-music-plugin-hosting-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/music/nextjs/plugin-hosting.md",
+  "presentationPlan": "projects/music/react/plugin-hosting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
